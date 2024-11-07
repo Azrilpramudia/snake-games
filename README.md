@@ -30,4 +30,4 @@
 </div>
 
 ## Reference 👇
-<a href = "https://codingstella.com/how-to-make-glowing-snake-game-using-html-css-javascript/"><button>Click ME</button></a>
+<a href = "https://codingstella.com/how-to-make-glowing-snake-game-using-html-css-javascript/" target="_blank"><button>Click ME</button></a>
